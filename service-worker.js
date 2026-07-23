@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cache-v35';
+const CACHE_NAME = 'cache-v36';
 const RESOURCES_TO_PRECACHE = [
     '/',
     'index.html?v36',
