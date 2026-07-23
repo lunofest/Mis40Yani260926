@@ -1,11 +1,11 @@
 const CACHE_NAME = 'cache-v35';
 const RESOURCES_TO_PRECACHE = [
     '/',
-    'index.html?v35',
-    'css/styles.css?v35',
-    'js/script.js?v35',
-    'main.js?v35',
-    'cache.js?v35'
+    'index.html?v36',
+    'css/styles.css?v36',
+    'js/script.js?v36',
+    'main.js?v36',
+    'cache.js?v36'
 ];
 
 self.addEventListener('install', function (event) {
